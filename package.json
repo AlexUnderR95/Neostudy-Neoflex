@@ -1,0 +1,25 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Introductory task for Neoflex",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "rest"
+  ],
+  "author": "Alexandr Shmodt <worldgoner@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "chalk": "^5.2.0",
+    "chall": "^1.0.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
